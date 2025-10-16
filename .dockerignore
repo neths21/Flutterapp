@@ -1,0 +1,15 @@
+# Git
+.git
+
+# IDE settings
+.idea
+.vscode
+
+# Flutter build artifacts
+/build/
+
+# Other
+.DS_Store
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
